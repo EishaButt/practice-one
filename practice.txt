@@ -4,6 +4,9 @@ red
 yellow 
 green 
 pink 
+offwhite
+blue
+majanta
 unicorn
 purple
 black
